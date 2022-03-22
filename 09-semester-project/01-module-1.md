@@ -4,9 +4,7 @@
 1. Each team will have a virtual deployment machine that I provide. It will have sufficient disk space and 12 GB of virtual RAM. 
 2. We will work together to discuss the requirements you will work on, and organize your projects. 
 3. Times I have set aside right now are: 
-    - Noon - 8pm Wednesday, October 28
-    - 11am - 5pm Thursday, October 29
-    - Noon - 6pm Sunday, November 1
+    - TBD
 4. You will each have an Augur Database at your disposal, and installed for you in your VM. It will have data from a set of 92 Scientific Open Source Software Projects. There are three repositories you can use in different combinations to address the requirements for your project. 
     - https://github.com/chaoss/augur (required)
     - https://github.com/chaoss/augur-community-reports 
