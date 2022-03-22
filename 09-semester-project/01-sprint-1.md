@@ -18,7 +18,7 @@
 
 ### Augur Software
 ![](./images/augur-map.png)
-1. [Augur Documentation](https://oss-augur.readthedocs.io/en/dev/)
+1. [Augur Documentation](https://oss-augur.readthedocs.io)
 2. [Augur Community Reports Repo](https://github.com/chaoss/augur-community-reports)
 3. [Slack Bot "Auggie"](http://auggie.augurlabs.io/#/login)
 4. http://augur.osshealth.io:5055/api/unstable/repos
