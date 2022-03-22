@@ -1,4 +1,4 @@
-# Semester Project
+# Semester Project!
 
 ## Setting up student meeting times
 1. Each team will need a deployment machine. It should have sufficient disk space and 12 GB of virtual RAM. 
